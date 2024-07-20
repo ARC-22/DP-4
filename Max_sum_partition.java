@@ -1,5 +1,5 @@
-// Time Complexity : O(n*k)
-// Space Complexity : O(n) 
+// Time Complexity : O(n^3)
+// Space Complexity : O(n+k) // string length + k words hashset 
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : No
 
